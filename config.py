@@ -1,5 +1,5 @@
 # Token of your bot (get from @BotFather)
-token = "1171340815:AAEGBIHkW6cClFzYUiijU_by7AhAc7YN_go"
+token = "TOKEN"
 
 # Json file with all data
 db_file = "database.json"
