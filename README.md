@@ -1,6 +1,6 @@
 # <p align="center">  تولید کننده رمز خوانا برای تلگرام #
-با کمک این ربات رمز های قدرتمند و خوانا برای برنامه ها یا وبسایت ها ایجاد کنید.
-هم اکنون امتحان کنید: https://t.me/PassGenRobot
+<p align="right"> با کمک این ربات رمز های قدرتمند و خوانا برای برنامه ها یا وبسایت ها ایجاد کنید.
+<p align="right"> هم اکنون امتحان کنید: https://t.me/PassGenRobot
 ### <p align="right"> چند ویژگی ###
 * Presets of different complexity
 * Ability to generate customized password  
