@@ -14,7 +14,7 @@
 
 ### <p align="right"> دستورات ###
 
-<p align="center"> ![Presets](img/readme_presets.png)
+<p align="center"> <img src="img/readme_presets.png" alt="دستورات درون ربات">
 
 `/generate_weak` – دو کلمه، بدون جداسازی کلمات
 
@@ -28,13 +28,13 @@
 
 ### <p align="right"> رمز های سفارشی ###
 
-<p align="center"> ![Customized Passwords](img/readme_settings.png)  
+<p align="center"> <img src="img/readme_settings.png" alt="تنظیمات رمز سفارشی درون ربات">
 
 <p align="right"> کلمه های دلخواه خود را با دستور /settings وارد کنید و رمز های خودتون رو با دستور /generate ایجاد کنید.
 
 ### <p align="right"> حالت اینلاین ###
 
-<p align="center"> ![Inline mode](img/readme_inline.png)
+<p align="center"> <img src="img/readme_inline.png" alt="حالت اینلاین ربات">
 
 <p align="right"> همچنین میتوانید از این ربات برای تولید رمز ها با پیچیدگی های مختلف در حالت اینلاین استفاده کنید.
 
