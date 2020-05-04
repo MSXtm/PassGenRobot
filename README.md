@@ -1,18 +1,18 @@
 # <p align="center">  تولید کننده رمز خوانا برای تلگرام #
-<p align="right"> .با کمک این ربات رمز های قدرتمند و خوانا برای برنامه ها یا وبسایت ها ایجاد کنید
-<p align="right"> هم اکنون امتحان کنید: https://t.me/PassGenRobot
+<p align="right" dir="rtl"> .با کمک این ربات رمز های قدرتمند و خوانا برای برنامه ها یا وبسایت ها ایجاد کنید
+<p align="right" dir="rtl"> هم اکنون امتحان کنید: https://t.me/PassGenRobot
 
 ### <p align="right">  چند ویژگی ###
 
-<p align="right"> تولید رمز با پیچیدگی های مختلف *
-<p align="right"> قابلیت ساخت رمز سفارشی *
-<p align="right"> حالت اینلاین * 
+<p align="right" dir="rtl"> * تولید رمز با پیچیدگی های مختلف
+<p align="right" dir="rtl"> * قابلیت ساخت رمز سفارشی
+<p align="right" dir="rtl"> * حالت اینلاین 
 
 ### <p align="right"> نیازمندی ها ###
-<p align="right"> برای نصب تمامی موارد موردنیاز از دستور زیر کمک بگیرید
-<p align="right"> <code>pip install -r requirements.txt</code>
+<p align="right" dir="rtl"> .برای نصب تمامی موارد موردنیاز از دستور زیر کمک بگیرید
+<p align="right" dir="rtl"> <code>pip install -r requirements.txt</code>
 
-### <p align="right"> دستورات ###
+### <p align="right" dir="rtl"> دستورات ###
 
 <p align="center"> <img src="img/readme_presets.png" alt="دستورات درون ربات">
 
@@ -36,5 +36,4 @@
 
 <p align="center"> <img src="img/readme_inline.png" alt="حالت اینلاین ربات">
 
-<p align="center"> همچنین میتوانید از این ربات برای تولید رمز ها با پیچیدگی های مختلف در حالت اینلاین استفاده کنید
-
+<p align="center" dir="rtl"> همچنین میتوانید از این ربات برای تولید رمز ها با پیچیدگی های مختلف در حالت اینلاین استفاده کنید.
