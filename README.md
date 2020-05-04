@@ -9,13 +9,8 @@
 <p align="right"> حالت اینلاین * 
 
 ### <p align="right"> نیازمندی ها ###
-* Python 3.7+  
-* [aiogram](https://github.com/aiogram/aiogram) – وبسرویس ربات تلگرام
-* [TinyDB](https://github.com/msiemens/tinydb) – استفاده از دیتابیس ها خیلی سریع و ساده 
-* [XKCD-password-generator](https://github.com/redacted/XKCD-password-generator) – تولید رمز ها
-
-<p align="right"> برای نصب تمامی موارد موردنیاز از دستور زیر کمک بگیرید.
-<p align="center"> `pip install -r requirements.txt`
+<p align="center"> برای نصب تمامی موارد موردنیاز از دستور زیر کمک بگیرید
+<p align="center"> <code>pip install -r requirements.txt</code>
 
 ### Presets
  ![Presets](img/readme_presets.png)
