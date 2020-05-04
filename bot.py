@@ -216,7 +216,7 @@ async def inline(query: types.InlineQuery):
             input_message_content=types.InputTextMessageContent(
                 message_text=f"<code>{generate_insane_pwd()}</code>\n\n⚡️ @PassGenRobot | تولید رمز با یک کلیک"
             ),
-            thumb_url="https://raw.githubusercontent.com/MasterGroosha/telegram-xkcd-password-generator/master/img/pwd_green.png",
+            thumb_url="https://raw.githubusercontent.com/MSXtm/PassGenRobot/master/img/pwd_black.png",
             thumb_height=64,
             thumb_width=64,
         ),
@@ -228,7 +228,7 @@ async def inline(query: types.InlineQuery):
             input_message_content=types.InputTextMessageContent(
                 message_text=f"<code>{generate_stronger_pwd()}</code>\n\n⚡️ @PassGenRobot | تولید رمز با یک کلیک"
             ),
-            thumb_url="https://raw.githubusercontent.com/MasterGroosha/telegram-xkcd-password-generator/master/img/pwd_green.png",
+            thumb_url="https://raw.githubusercontent.com/MSXtm/PassGenRobot/master/img/pwd_green.png",
             thumb_height=64,
             thumb_width=64,
         ),
@@ -240,7 +240,7 @@ async def inline(query: types.InlineQuery):
             input_message_content=types.InputTextMessageContent(
                 message_text=f"<code>{generate_strong_pwd()}</code>\n\n⚡️ @PassGenRobot | تولید رمز با یک کلیک"
             ),
-            thumb_url="https://raw.githubusercontent.com/MasterGroosha/telegram-xkcd-password-generator/master/img/pwd_yellow.png",
+            thumb_url="https://raw.githubusercontent.com/MSXtm/PassGenRobot/master/img/pwd_yellow.png",
             thumb_height=64,
             thumb_width=64,
         ),
@@ -252,7 +252,7 @@ async def inline(query: types.InlineQuery):
             input_message_content=types.InputTextMessageContent(
                 message_text=f"<code>{generate_normal_pwd()}</code>\n\n⚡️ @PassGenRobot | تولید رمز با یک کلیک"
             ),
-            thumb_url="https://raw.githubusercontent.com/MasterGroosha/telegram-xkcd-password-generator/master/img/pwd_yellow.png",
+            thumb_url="https://raw.githubusercontent.com/MSXtm/PassGenRobot/master/img/pwd_orange.png",
             thumb_height=64,
             thumb_width=64,
         ),
@@ -264,7 +264,7 @@ async def inline(query: types.InlineQuery):
             input_message_content=types.InputTextMessageContent(
                 message_text=f"<code>{generate_weak_pwd()}</code>\n\n⚡️ @PassGenRobot | تولید رمز با یک کلیک"
             ),
-            thumb_url="https://raw.githubusercontent.com/MasterGroosha/telegram-xkcd-password-generator/master/img/pwd_red.png",
+            thumb_url="https://raw.githubusercontent.com/MSXtm/PassGenRobot/master/img/pwd_red.png",
             thumb_height=64,
             thumb_width=64,
         )
