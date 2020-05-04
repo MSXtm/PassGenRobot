@@ -1,9 +1,9 @@
-# <p align="center">  Readable Passwords Generator for Telegram #
+# <p align="center">  تولید کننده رمز خوانا برای تلگرام #
 
-This bot allows you to generate readable passwords directly from Telegram without necessity to open external utilities such as KeePass. An inspiration for this bot came from famous [XKCD 936](http://xkcd.com/936/) strip.  
-Try it now: https://t.me/passgenbot
+با کمک این ربات رمز های قدرتمند و خوانا برای برنامه ها یا وبسایت ها ایجاد کنید.
+هم اکنون امتحان کنید: https://t.me/PassGenRobot
 
-### Features 
+### <p align="right"> چند ویژگی ### 
 * Presets of different complexity
 * Ability to generate customized password  
 * Inline mode with colored complexity
