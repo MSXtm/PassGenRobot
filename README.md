@@ -9,27 +9,28 @@
 <p align="right"> حالت اینلاین * 
 
 ### <p align="right"> نیازمندی ها ###
-<p align="center"> برای نصب تمامی موارد موردنیاز از دستور زیر کمک بگیرید
-<p align="center"> <code>pip install -r requirements.txt</code>
+<p align="right"> برای نصب تمامی موارد موردنیاز از دستور زیر کمک بگیرید
+<p align="right"> <code>pip install -r requirements.txt</code>
 
-### Presets
+### <p align="right"> دستورات ###
+
  ![Presets](img/readme_presets.png)
 
-`/generate_weak` – 2 words, no separators between words  
-`/generate_normal` – 3 words, no separators between words, second word is CAPITALIZED  
-`/generate_strong` – 3 words, random CAPITALIZATION, random number as separator between words   
-`/generate_stronger` – Same as "strong", but using 4 words    
-`/generate_insane` – 4 words, second one CAPITALIZED, separators, prefixes and suffixes  
+`/generate_weak` – دو کلمه، بدون جداسازی کلمات
+`/generate_normal` – سه کلمه، بدون جداسازی کلمات، کلمه میانی با حروف بزرگ
+`/generate_strong` – سه کلمه، جداسازی با اعداد تصادفی، حروف بزرگ تصادفی 
+`/generate_stronger` – چهار کلمه، جداسازی با اعداد تصادفی، حروف بزرگ تصادفی
+`/generate_insane` – چهار کلمه، جداسازی با حروف تصادفی، پیشوند تصادفی، پسوند تصادفی، کلمه دوم با حروف بزرگ
 
-### Customized Passwords
+### <p align="right"> رمز های سفارشی ###
 
 ![Customized Passwords](img/readme_settings.png)  
 
-With `/settings` command you can customize generated passwords. Currently supported settings are number of words (2 to 8), prefixes and suffices in the beginning and in the end of password and separators between words in password. Then just use `/generate` command to create password based on your settings.
+<p align="right"> کلمه های دلخواه خود را با دستور /settings وارد کنید و رمز های خودتون رو با دستور /generate ایجاد کنید.
 
-### Inline mode
+### <p align="right"> حالت اینلاین ###
 
 ![Inline mode](img/readme_inline.png)
 
-You can also use this bot in inline mode. An indicator on the left shows rough password complexity (green is good, red is not).
+<p align="right"> همچنین میتوانید از این ربات برای تولید رمز ها با پیچیدگی های مختلف در حالت اینلاین استفاده کنید.
 
