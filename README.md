@@ -1,9 +1,8 @@
 # <p align="center">  تولید کننده رمز خوانا برای تلگرام #
-
+<p align="right">
 با کمک این ربات رمز های قدرتمند و خوانا برای برنامه ها یا وبسایت ها ایجاد کنید.
 هم اکنون امتحان کنید: https://t.me/PassGenRobot
-
-### <p align="right"> چند ویژگی ### 
+### چند ویژگی 
 * Presets of different complexity
 * Ability to generate customized password  
 * Inline mode with colored complexity
@@ -40,3 +39,4 @@ With `/settings` command you can customize generated passwords. Currently suppor
 ![Inline mode](img/readme_inline.png)
 
 You can also use this bot in inline mode. An indicator on the left shows rough password complexity (green is good, red is not).
+</p>
