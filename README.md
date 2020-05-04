@@ -12,6 +12,14 @@
 <p align="right" dir="rtl"> برای نصب تمامی موارد موردنیاز از دستور زیر کمک بگیرید.
 <p align="right" dir="rtl"> <code>pip install -r requirements.txt</code>
 
+
+### <p align="right">  نصب آسان ###
+
+<p align="right" dir="rtl"> * پس از نصب نیازمندی ها با دستور بالا، وارد فایل <code>config.py</code> شوید و توکن ربات را قرار دهید.
+<p align="right" dir="rtl"> * سپس با دستور <code>python bot.py</code> ربات را اجرا کنید.
+<p align="right" dir="rtl"> * موفق باشید. 
+
+
 ### <p align="right" dir="rtl"> دستورات ###
 
 <p align="center"> <img src="https://github.com/MSXtm/ScreenShots/blob/master/PassGenRobot_presets.png" alt="دستورات درون ربات">
