@@ -1,5 +1,5 @@
 # <p align="center">  تولید کننده رمز خوانا برای تلگرام #
-<p align="right" dir="rtl"> .با کمک این ربات رمز های قدرتمند و خوانا برای برنامه ها یا وبسایت ها ایجاد کنید
+<p align="right" dir="rtl"> با کمک این ربات رمز های قدرتمند و خوانا برای برنامه ها یا وبسایت ها ایجاد کنید.
 <p align="right" dir="rtl"> هم اکنون امتحان کنید: https://t.me/PassGenRobot
 
 ### <p align="right">  چند ویژگی ###
@@ -9,7 +9,7 @@
 <p align="right" dir="rtl"> * حالت اینلاین 
 
 ### <p align="right"> نیازمندی ها ###
-<p align="right" dir="rtl"> .برای نصب تمامی موارد موردنیاز از دستور زیر کمک بگیرید
+<p align="right" dir="rtl"> برای نصب تمامی موارد موردنیاز از دستور زیر کمک بگیرید.
 <p align="right" dir="rtl"> <code>pip install -r requirements.txt</code>
 
 ### <p align="right" dir="rtl"> دستورات ###
