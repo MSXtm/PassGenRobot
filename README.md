@@ -4,11 +4,9 @@
 
 ### <p align="right">  چند ویژگی ###
 
-<p align="right">* تولید رمز با پیچیدگی های مختلف
-<p align="right">* قابلیت ساخت رمز سفارشی
-<p align="right">* حالت اینلاین 
-
-<p align="right"> فراموش نکنید که توکن خود را درون `config.py` بگذارید.
+* <p align="right"> تولید رمز با پیچیدگی های مختلف
+* <p align="right"> قابلیت ساخت رمز سفارشی
+* <p align="right"> حالت اینلاین 
 
 ### <p align="right"> نیازمندی ها ###
 * Python 3.7+  
