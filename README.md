@@ -4,13 +4,11 @@
 
 ### <p align="right">  چند ویژگی ###
 
-* Presets of different complexity
-* Ability to generate customized password  
-* Inline mode with colored complexity
-* No personal data is collected!  
-* Basic multilanguage support (En+Ru), depending on `language_code` from Bot API
+<p align="right">* تولید رمز با پیچیدگی های مختلف
+<p align="right">* قابلیت ساخت رمز سفارشی
+<p align="right">* حالت اینلاین 
 
-Don't forget to rename `config.example.py` to `config.py` and put your data instead of stubs.
+<p align="right"> فراموش نکنید که توکن خود را درون `config.py` بگذارید.
 
 ### <p align="right"> نیازمندی ها ###
 * Python 3.7+  
